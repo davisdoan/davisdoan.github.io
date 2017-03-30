@@ -60,29 +60,29 @@ __SDSU Intro to Web Development - Online Marathon Registration__
 
 `Aug 2016-Current`
 __Ingenu - Performance Engineer Intern__ 
+<div class="responsibilities">
+* Met with product developers to document and understand the product performance expectations
 
-*Met with product developers to document and understand the product performance expectations
+* Analyze system resource metrics and logs to identify bottlenecks
 
-*Analyze system resource metrics and logs to identify bottlenecks
+* Coordinate with software teams to develop and implement performance test plan
 
-*Coordinate with software teams to develop and implement performance test plan
+* Created bash scripts to collect service logs across multiple virtual machines and initialize database environments 
 
-*Created bash scripts to collect service logs across multiple virtual machines and initialize database environments 
-
-*Deploy and configure proprietary software across multiple virtual machines
-
+* Deploy and configure proprietary software across multiple virtual machines
+</div>
  
  `May 2016-Aug 2016`
 __Ingenu - Software Release Intern__ 
+<div class="responsibilities">
+* Coordinate the deploy and build process for software releases by using source management tools to compile, package and deploy application components
 
-*Coordinate the deploy and build process for software releases by using source management tools to compile, package and deploy application components
+* Create change requests and perform validations on software deployments
 
-*Create change requests and perform validations on software deployments
+* Examine and execute application specific deployment processes
 
-*Examine and execute application specific deployment processes
-
-*Resolved build and release dependencies in collaboration with other departments
-
+* Resolved build and release dependencies in collaboration with other departments
+</div>
 ## Hobbies
 
 * Hiking

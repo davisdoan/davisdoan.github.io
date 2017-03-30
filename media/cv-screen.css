@@ -43,6 +43,10 @@ body {
 ol, ul {
 	list-style: none;
 }
+
+.responsibilities {
+	list-style: circle;
+}
 blockquote, q {
 	quotes: none;
 }
@@ -101,6 +105,12 @@ ul {
   columns: 3;
   -webkit-columns: 3;
   -moz-columns: 3;
+}
+
+.responsibilities ul {
+	columns: 1;
+	-webkit-columns: 1;
+  -moz-columns: 1;
 }
 
 
