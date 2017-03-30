@@ -44,16 +44,16 @@ __San Diego State University__ Bachelor's degree in Finance
  `Fall 2016`
 __SDSU Intro to Web Development - Online Chocolate Shop__ 
 
-*Website for an imaginary chocolate shop with full check out and order confirmation
+* Website for an imaginary chocolate shop with full check out and order confirmation
 
-*Web pages generated inventory and stock categories via PHP requests to mySQL database
+* Web pages generated inventory and stock categories via PHP requests to mySQL database
 
  `Fall 2016`
 __SDSU Intro to Web Development - Online Marathon Registration__ 
 
-*Website for an imaginary SDSU Marathon with runner registration and confirmation
+* Website for an imaginary SDSU Marathon with runner registration and confirmation
 
-*Runner registration stored in mySQL database with duplicate runner checking
+* Runner registration stored in mySQL database with duplicate runner checking
 
 
 ## Professional Experience
