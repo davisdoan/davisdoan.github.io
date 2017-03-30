@@ -60,7 +60,7 @@ __SDSU Intro to Web Development - Online Marathon Registration__
 
 `Aug 2016-Current`
 __Ingenu - Performance Engineer Intern__ 
-<div class="responsibilities">
+
 * Met with product developers to document and understand the product performance expectations
 
 * Analyze system resource metrics and logs to identify bottlenecks
@@ -70,8 +70,7 @@ __Ingenu - Performance Engineer Intern__
 * Created bash scripts to collect service logs across multiple virtual machines and initialize database environments 
 
 * Deploy and configure proprietary software across multiple virtual machines
-</div>
- 
+
  `May 2016-Aug 2016`
 __Ingenu - Software Release Intern__ 
 
