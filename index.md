@@ -31,7 +31,7 @@ __San Diego State University__ Bachelor's degree in Finance
 
 ## Technical skills
 
-* HTML5 and CSS3
+* .test HTML5 and CSS3
 * Javascript
 * jQuery
 * mySQL

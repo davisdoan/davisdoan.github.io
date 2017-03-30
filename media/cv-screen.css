@@ -44,6 +44,10 @@ ol, ul {
 	list-style: circle;
 }
 
+#projects > ul > li {
+	list-style:circle;
+}
+
 .responsibilities {
 	list-style: circle;
 }
@@ -102,7 +106,13 @@ ul {
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
-  columns: 1;
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+}
+
+#projects > ul  {
+	  columns: 1;
   -webkit-columns: 1;
   -moz-columns: 1;
 }
