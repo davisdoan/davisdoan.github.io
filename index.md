@@ -1,78 +1,97 @@
 ---
 layout: cv
-title: John Brown's CV
+title: Davis Doan's CV
 ---
 
-![John](./media/22.JPEG){:.avatar}
+![Davis](./media/23.jpg){:.avatar}
 
-# John Brown
-Computer Science Student
- <!--and Technology aficionado-->
+#Davis Doan
+Computer Science Student and Technology Newbie
 
 <div id="webaddress">
-<a href="mailto:jpbrown@softstackfactory.org">Email</a>
+<a href="mailto:">davisdoan@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/jbrownssf">My GitHub</a>
-<!--|-->
-<!--<i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a>-->
+<i class="fa fa-github"></i> <a href="http://github.com/davisdoan">my account</a>
+|
+<i class="fa fa-instagram"></i> <a href="http://instagram.com/dunkindoanuts">myinstagram</a>
 </div>
 
 
 ## Currently
 
-I'm working with Soft Stack Factory in teaching, and building, hybrid mobile apps using angular.js.
+Pursuing an education in Computer Science with a focus on Software Engineering. Seeking to
+leverage fundamental knowledge of object-oriented programming, data structures, and algorithms.
 
 ## Education
+`2017-18`
+__San Diego State University__ Masters's degree in Computer Science
 
-`2009-13`
-__Steele Canyon High School__ High School Diploma
-<br>
-`2015`
-__Soft Stack Factory__ Learned how to Programming Hybrid Mobile Apps
+`2009-11`
+__San Diego State University__ Bachelor's degree in Finance
 
 ## Technical skills
 
-* HTML and CSS
+* HTML5 and CSS3
 * Javascript
-* Angular.js
-* MEAN stack
-* Jekyll
-* Php
-* SQL
+* jQuery
+* mySQL
+* Java
+* PHP
+
 
 ## Projects
+ 
+ `Fall 2016`
+__SDSU Intro to Web Development - Online Chocolate Shop__ 
 
-### CV
-`Feb 2016`
-I created a this web page to show off my CV. Click <a href="https://github.com/jbrownssf/jbrownssf.github.io" target="_blank">this</a> to see the Repository.
+*Website for an imaginary chocolate shop with full check out and order confirmation
 
-### ZIB
-`2015-16`
-I helped create the <a href="https://app.zebitinstantbudget.com" target="_blank">Zebit Instant Budget</a> app.
+*Web pages generated inventory and stock categories via PHP requests to mySQL database
 
-## Achievements
-`2013`
-Achieved the __Eagle Scout__ rank.
+ `Fall 2016`
+__SDSU Intro to Web Development - Online Marathon Registration__ 
 
-## Experience
+*Website for an imaginary SDSU Marathon with runner registration and confirmation
 
-`2015`
-__Sales Associate__ <br>
-I worked for eight months with RadioShack selling electronics and accessories.
+*Runner registration stored in mySQL database with duplicate runner checking
+
+
+## Professional Experience
+
+`Aug 2016-Current`
+__Ingenu - Performance Engineer Intern__ 
+
+*Met with product developers to document and understand the product performance expectations
+
+*Analyze system resource metrics and logs to identify bottlenecks
+
+*Coordinate with software teams to develop and implement performance test plan
+
+*Created bash scripts to collect service logs across multiple virtual machines and initialize database environments 
+
+*Deploy and configure proprietary software across multiple virtual machines
+
+ 
+ `May 2016-Aug 2016`
+__Ingenu - Software Release Intern__ 
+
+*Coordinate the deploy and build process for software releases by using source management tools to compile, package and deploy application components
+
+*Create change requests and perform validations on software deployments
+
+*Examine and execute application specific deployment processes
+
+*Resolved build and release dependencies in collaboration with other departments
 
 ## Hobbies
 
-* Programming
 * Hiking
-* Rock Climbing 
- 
-## References
-Contact me for references.
+* Outdoor Photography 
+* Cooking
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:jpbrown@softstackfactory.org">jpbrown@softstackfactory.org</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/jbrownssf">my account</a><br />
-<!--* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />-->
-<!--* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/">SO Account</a>-->
-<!--* <i class="fa fa-google"></i> <a href="http://scholar.google.com/">scholar</a>-->
+* <i class="fa fa-envelope"></i> <a href="mailto:">davisdoan@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/davisdoan">my account</a><br />
+* <i class="fa fa-instagram"></i> <a href="http://instagram.com/dunkindoanuts">myinstagram</a><br />
+
