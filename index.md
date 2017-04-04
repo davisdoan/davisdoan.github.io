@@ -42,15 +42,17 @@ __San Diego State University__ Bachelor's degree in Finance
 ## Projects
  
  `Fall 2016`
-__SDSU Intro to Web Development - Online Chocolate Shop__ 
+__SDSU Intro to Web Development - Online Chocolate Shop__
 
-* Website for an imaginary chocolate shop with full check out and order confirmation
+{:.fun}
+* {:.done} Website for an imaginary chocolate shop with full check out and order confirmation
 
-* Web pages generated inventory and stock categories via PHP requests to mySQL database
+* {:.done} Web pages generated inventory and stock categories via PHP requests to mySQL database
 
  `Fall 2016`
 __SDSU Intro to Web Development - Online Marathon Registration__ 
 
+{:.fun}
 * Website for an imaginary SDSU Marathon with runner registration and confirmation
 
 * Runner registration stored in mySQL database with duplicate runner checking
@@ -61,26 +63,28 @@ __SDSU Intro to Web Development - Online Marathon Registration__
 `Aug 2016-Current`
 __Ingenu - Performance Engineer Intern__ 
 
-*Met with product developers to document and understand the product performance expectations
+{:.fun}
+* Met with product developers to document and understand the product performance expectations
 
-*Analyze system resource metrics and logs to identify bottlenecks
+* Analyze system resource metrics and logs to identify bottlenecks
 
-*Coordinate with software teams to develop and implement performance test plan
+* Coordinate with software teams to develop and implement performance test plan
 
-*Created bash scripts to collect service logs across multiple virtual machines and initialize database environments 
+* Created bash scripts to collect service logs across multiple virtual machines and initialize database environments 
 
-*Deploy and configure proprietary software across multiple virtual machines
+* Deploy and configure proprietary software across multiple virtual machines
 
  `May 2016-Aug 2016`
 __Ingenu - Software Release Intern__ 
 
-*Coordinate the deploy and build process for software releases by using source management tools to compile, package and deploy application components
+{:.fun}
+* Coordinate the deploy and build process for software releases by using source management tools to compile, package and deploy application components
 
-*Create change requests and perform validations on software deployments
+* Create change requests and perform validations on software deployments
 
-*Examine and execute application specific deployment processes
+* Examine and execute application specific deployment processes
 
-*Resolved build and release dependencies in collaboration with other departments
+* Resolved build and release dependencies in collaboration with other departments
 
 ## Hobbies
 

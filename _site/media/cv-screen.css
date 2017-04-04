@@ -111,10 +111,20 @@ ul {
   -moz-columns: 3;
 }
 
-#projects > ul  {
+#projects>li{
+	background-color: blue;
 	  columns: 1;
   -webkit-columns: 1;
   -moz-columns: 1;
+}
+
+
+.fun {
+   columns: 1;
+  -webkit-columns: 1;
+  -moz-columns: 1;
+  left: 15%;
+  list-style: circle;
 }
 
 
